@@ -10,7 +10,16 @@
       <version>0.8.0</version>
    </parent>
 
-
+   <scm>
+      <connection>scm:git:git://github.com/konik-io/distribution.git</connection>
+      <developerConnection>scm:git:git@github.com:konik-io/distribution</developerConnection>
+      <url>https://github.com/konik-io/distribution</url>
+   </scm>
+   <issueManagement>
+      <system>GitHub Issues</system>
+      <url>https://github.com/konik-io/distribution/issues</url>
+   </issueManagement>
+   
    <properties>
       <konik-latest-release>0.8.2</konik-latest-release>
       <itext-carriage-latest-release>0.8.0</itext-carriage-latest-release>
