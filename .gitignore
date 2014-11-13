@@ -1,2 +1,4 @@
 .settings
 .project
+pom.xml.versionsBackup
+target

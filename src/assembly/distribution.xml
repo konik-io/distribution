@@ -35,13 +35,5 @@
             <include>*:javadoc</include>
          </includes>
       </dependencySet>
-      <dependencySet>
-         <scope>runtime</scope>
-         <outputDirectory>sources/${artifact.artifactId}</outputDirectory>
-         <unpack>true</unpack>
-         <includes>
-            <include>*:sources</include>
-         </includes>
-      </dependencySet>
    </dependencySets>
 </assembly>
