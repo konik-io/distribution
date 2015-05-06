@@ -20,7 +20,7 @@
    </issueManagement>
    
    <properties>
-      <konik-latest-release>1.0.0</konik-latest-release>
+      <konik-latest-release>1.0.2</konik-latest-release>
       <itext-carriage-latest-release>0.8.0</itext-carriage-latest-release>
       <pdfbox-carriage-latest-release>0.8.3</pdfbox-carriage-latest-release>
       <harness-latest-release>0.8.0</harness-latest-release>
