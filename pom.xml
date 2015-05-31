@@ -181,5 +181,5 @@
          <classifier>javadoc</classifier>
       </dependency>
    </dependencies>
-   <version>1.0.3</version>
+   <version>1.0.4-SNAPSHOT</version>
 </project>
