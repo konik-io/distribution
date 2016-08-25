@@ -20,9 +20,9 @@
    </issueManagement>
    
    <properties>
-      <konik-latest-release>1.2.4</konik-latest-release>
+      <konik-latest-release>1.2.9</konik-latest-release>
       <itext-carriage-latest-release>0.8.0</itext-carriage-latest-release>
-      <pdfbox-carriage-latest-release>1.0.0</pdfbox-carriage-latest-release>
+      <pdfbox-carriage-latest-release>1.0.1</pdfbox-carriage-latest-release>
       <harness-latest-release>1.0.0</harness-latest-release>
    </properties>
 
